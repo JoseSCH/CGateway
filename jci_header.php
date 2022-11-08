@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Just calcule it
-Plugin URI: #
+Plugin URI: https://github.com/JoseSCH/Just-Calcule-It
 Description: Una simpre calculadora.
 Author: JoseSCH
 Version: 1.0
-Author URI: #
+Author URI: https://github.com/JoseSCH
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 */
