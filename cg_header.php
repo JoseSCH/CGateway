@@ -200,7 +200,7 @@ function CG_init_pasarela_class() {
            
             $order = wc_get_order( $order_id );
 
-            $response = wp_remote_post( '{https://eureka.free.beeceptor.com}', $args );
+            $response = wp_remote_post( 'https://eureka.free.beeceptor.com', $args );
 
             if( !is_wp_error( $response ) ) {
  
