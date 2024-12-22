@@ -9,4 +9,4 @@ Créditos a Misha Rudrastyh por ser guía para este código.
 
 Página del código: https://rudrastyh.com/woocommerce/payment-gateway-plugin.html
 
-He fallado en mi misión, pero no es motivo para rendirse...
+He fallado en mi misión, pero no es motivo para rendirse... Dejo aquí esto como prueba de que al menos lo intente, espero mejorar, este fracaso será para mejorar.
